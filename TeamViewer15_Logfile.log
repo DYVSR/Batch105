@@ -1,0 +1,454 @@
+
+
+
+Start:              2022/08/22 12:03:31.929 (UTC+5:30)
+Version:            15.23.9 (64-bit)
+Version short hash: 9ac8440a437
+ID:                 570152903
+Loglevel:           Info (100)
+License:            10000
+IC:                 617707977
+CPU:                Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+CPU extensions:     l9
+OS:                 Win_10.0.22000_W (64-bit)
+IP:                 192.168.43.166
+MID:                v314443353331424a31323242333144357412b3a880dd60a78f9550f53bf3c114342b4bdbb85e<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006
+MIDv:               2
+Proxy-Settings:     Type=1 IP= User=
+IE:                 11.1.22000.0
+AppPath:            C:\Program Files\TeamViewer\TeamViewer_Service.exe
+UserAccount:        SYSTEM
+
+2022/08/22 12:03:32.075  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=10, statusCode=WTS_SESSION_LOGOFF, console=10
+2022/08/22 12:03:32.202  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=10, statusCode=WTS_CONSOLE_DISCONNECT, console=4294967295
+2022/08/22 12:03:32.202  5224  5228 S0   SingleUserSessionDesignator: New active session: 4294967295
+2022/08/22 12:03:32.259  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=11, statusCode=WTS_REMOTE_DISCONNECT, console=4294967295
+2022/08/22 12:03:32.339  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=11, statusCode=WTS_CONSOLE_CONNECT, console=11
+2022/08/22 12:03:32.339  5224  5228 S0   SingleUserSessionDesignator: New active session: 11
+2022/08/22 12:03:32.393  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/22 12:03:32.393  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/22 12:03:32.393  5224  5228 S0   NetWatchdog: OnStandby going to sleep
+2022/08/22 12:03:32.393  5224  5228 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/22 12:03:32.393  5224  5456 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/23 21:39:11.242  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/23 21:39:11.242  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/23 21:39:11.290  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/08/23 21:39:11.290  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/08/23 21:39:11.290  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/08/23 21:39:11.290  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/23 21:39:11.590  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/08/23 21:39:11.590  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/08/23 21:39:11.590  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/08/23 21:39:11.590  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/23 21:39:12.124  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/23 21:39:12.124  5224  5456 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/23 21:39:12.124  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/08/23 21:39:12.124  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/08/23 21:39:15.016  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/08/23 21:39:15.016  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/23 21:39:15.030  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/23 21:39:15.928  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/08/23 21:39:15.928  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/23 21:39:26.489  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/23 21:39:32.524  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=11, statusCode=WTS_SESSION_LOGON, console=11
+2022/08/23 21:43:26.398  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=12, statusCode=WTS_REMOTE_CONNECT, console=11
+2022/08/23 21:43:27.886  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/23 21:43:27.886  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/23 21:43:28.120  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=11, statusCode=WTS_SESSION_LOGOFF, console=11
+2022/08/23 21:43:28.239  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=11, statusCode=WTS_CONSOLE_DISCONNECT, console=4294967295
+2022/08/23 21:43:28.239  5224  5228 S0   SingleUserSessionDesignator: New active session: 4294967295
+2022/08/23 21:43:28.290  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=12, statusCode=WTS_REMOTE_DISCONNECT, console=4294967295
+2022/08/23 21:43:28.922  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=12, statusCode=WTS_CONSOLE_CONNECT, console=12
+2022/08/23 21:43:28.922  5224  5228 S0   SingleUserSessionDesignator: New active session: 12
+2022/08/23 21:43:28.968  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/23 21:43:28.968  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/23 21:43:28.968  5224  5228 S0   NetWatchdog: OnStandby going to sleep
+2022/08/23 21:43:28.968  5224  5228 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/23 21:43:28.968  5224  5456 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/24 21:28:53.182  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 21:28:53.182  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 21:28:53.231  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/08/24 21:28:53.231  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/08/24 21:28:53.231  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/08/24 21:28:53.231  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:28:53.608  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/08/24 21:28:53.608  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/08/24 21:28:53.608  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/08/24 21:28:53.608  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:28:54.080  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/24 21:28:54.080  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/08/24 21:28:54.080  5224  5456 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/24 21:28:54.080  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/08/24 21:29:00.579  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=12, statusCode=WTS_SESSION_LOGON, console=12
+2022/08/24 21:29:57.175  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/08/24 21:29:57.181  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:29:57.205  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:29:57.340  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:29:58.508  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/08/24 21:29:58.508  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:29:58.649  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:30.255  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:31.302  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/24 21:44:31.302  5224  5456 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/24 21:44:31.302  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/08/24 21:44:31.303  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/08/24 21:44:35.231  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/08/24 21:44:35.241  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:35.281  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:35.960  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/08/24 21:44:35.962  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:37.855  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:37.869  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:44:38.318  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:59:01.889  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/08/24 21:59:01.890  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:59:05.277  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/08/24 21:59:05.277  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 21:59:27.309  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 21:59:27.310  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 21:59:30.563  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 21:59:30.563  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:20:00.873  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:20:00.874  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:20:07.340  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:20:07.340  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:27:49.754  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:27:49.755  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:28:02.341  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:28:02.341  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:34:11.718  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:34:11.718  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:34:26.775  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:34:26.777  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:35:14.934  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:35:14.942  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:56:19.431  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:56:19.432  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:56:31.228  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 22:56:31.228  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 23:05:23.105  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/24 23:05:23.106  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/24 23:05:25.209  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/24 23:05:25.209  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/24 23:07:41.322  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/24 23:22:08.190  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=13, statusCode=WTS_REMOTE_CONNECT, console=12
+2022/08/24 23:22:09.786  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 23:22:09.786  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/24 23:22:09.957  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=12, statusCode=WTS_SESSION_LOGOFF, console=12
+2022/08/24 23:22:10.047  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=12, statusCode=WTS_CONSOLE_DISCONNECT, console=4294967295
+2022/08/24 23:22:10.047  5224  5228 S0   SingleUserSessionDesignator: New active session: 4294967295
+2022/08/24 23:22:10.083  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=13, statusCode=WTS_REMOTE_DISCONNECT, console=4294967295
+2022/08/24 23:22:10.164  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=13, statusCode=WTS_CONSOLE_CONNECT, console=13
+2022/08/24 23:22:10.164  5224  5228 S0   SingleUserSessionDesignator: New active session: 13
+2022/08/24 23:22:10.230  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/24 23:22:10.230  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/24 23:22:10.230  5224  5228 S0   NetWatchdog: OnStandby going to sleep
+2022/08/24 23:22:10.230  5224  5228 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/24 23:22:10.230  5224  5460 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/29 11:18:09.187  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/29 11:18:09.187  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/29 11:18:09.392  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:18:09.392  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:18:10.196  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/29 11:18:10.196  5224  5460 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/29 11:18:10.196  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/08/29 11:18:10.196  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/08/29 11:18:18.853  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/08/29 11:18:18.853  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/08/29 11:18:18.853  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/08/29 11:18:18.853  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:18:20.223  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/08/29 11:18:20.223  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/08/29 11:18:20.223  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/08/29 11:18:20.223  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:18:23.009  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=13, statusCode=WTS_SESSION_LOGON, console=13
+2022/08/29 11:19:09.011  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/08/29 11:19:09.026  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:19:09.042  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:19:10.707  5224  5460 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:19:25.837  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/08/29 11:19:25.837  5224  5456 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:30:12.519  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/29 11:30:12.519  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/08/29 11:54:39.094  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:54:39.095  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:54:54.259  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:54:54.259  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:55:30.456  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/29 11:55:30.456  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/08/29 11:55:30.456  5224  5456 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/08/29 11:55:30.456  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/08/29 11:59:31.723  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/08/29 11:59:31.723  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/08/29 11:59:31.754  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/08/29 11:59:31.959  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 11:59:31.959  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 12:05:34.430  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=14, statusCode=WTS_REMOTE_CONNECT, console=13
+2022/08/29 12:05:35.884  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 12:05:35.884  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/08/29 12:05:36.056  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=13, statusCode=WTS_SESSION_LOGOFF, console=13
+2022/08/29 12:05:36.170  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=13, statusCode=WTS_CONSOLE_DISCONNECT, console=4294967295
+2022/08/29 12:05:36.170  5224  5228 S0   SingleUserSessionDesignator: New active session: 4294967295
+2022/08/29 12:05:36.239  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=14, statusCode=WTS_REMOTE_DISCONNECT, console=4294967295
+2022/08/29 12:05:36.285  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=14, statusCode=WTS_CONSOLE_CONNECT, console=14
+2022/08/29 12:05:36.285  5224  5228 S0   SingleUserSessionDesignator: New active session: 14
+2022/08/29 12:05:36.317  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/29 12:05:36.317  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/08/29 12:05:36.317  5224  5228 S0   NetWatchdog: OnStandby going to sleep
+2022/08/29 12:05:36.317  5224  5228 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/08/29 12:05:36.317  5224  5448 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/10 10:21:48.089  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:21:48.225  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/10 10:21:48.225  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/10 10:21:48.375  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/09/10 10:21:48.375  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/09/10 10:21:48.375  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/09/10 10:21:48.375  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:21:49.084  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/09/10 10:21:49.084  5224  5440 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/10 10:21:49.084  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/09/10 10:21:49.084  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/09/10 10:21:50.001  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/09/10 10:21:50.001  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/09/10 10:21:50.001  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/09/10 10:21:50.001  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:21:54.100  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=14, statusCode=WTS_SESSION_LOGON, console=14
+2022/09/10 10:22:07.102  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/09/10 10:22:07.102  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:22:07.133  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:22:12.715  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:22:24.613  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/09/10 10:22:24.613  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:22:24.613  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:24:59.211  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/10 10:24:59.211  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/10 10:25:01.763  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/10 10:25:01.763  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/10 10:26:47.255  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/09/10 10:26:47.256  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:26:58.991  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/09/10 10:26:58.991  5224  5448 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/10 10:26:58.991  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/09/10 10:27:05.701  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/09/10 10:27:05.708  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:27:05.826  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:27:06.590  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/09/10 10:27:06.590  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:27:06.862  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/10 10:46:10.723  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=15, statusCode=WTS_REMOTE_CONNECT, console=14
+2022/09/10 10:46:12.182  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/10 10:46:12.182  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/10 10:46:12.414  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=14, statusCode=WTS_SESSION_LOGOFF, console=14
+2022/09/10 10:46:12.526  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=14, statusCode=WTS_CONSOLE_DISCONNECT, console=4294967295
+2022/09/10 10:46:12.526  5224  5228 S0   SingleUserSessionDesignator: New active session: 4294967295
+2022/09/10 10:46:12.565  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=15, statusCode=WTS_REMOTE_DISCONNECT, console=4294967295
+2022/09/10 10:46:12.663  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=15, statusCode=WTS_CONSOLE_CONNECT, console=15
+2022/09/10 10:46:12.663  5224  5228 S0   SingleUserSessionDesignator: New active session: 15
+2022/09/10 10:46:12.722  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/09/10 10:46:12.722  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/09/10 10:46:12.723  5224  5228 S0   NetWatchdog: OnStandby going to sleep
+2022/09/10 10:46:12.723  5224  5228 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/09/10 10:46:12.724  5224  5440 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/11 17:12:52.047  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/11 17:12:52.047  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/11 17:12:52.142  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:12:52.351  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:12:52.351  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:12:52.642  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/09/11 17:12:52.642  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/09/11 17:12:52.642  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/09/11 17:12:52.642  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:12:53.130  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/09/11 17:12:53.130  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/09/11 17:12:53.130  5224  5440 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/11 17:12:53.137  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/09/11 17:13:03.107  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/09/11 17:13:03.107  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/09/11 17:13:03.107  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/09/11 17:13:03.107  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:13:11.998  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=15, statusCode=WTS_SESSION_LOGON, console=15
+2022/09/11 17:14:21.727  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/09/11 17:14:21.727  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:14:21.758  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:14:22.238  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/09/11 17:14:22.241  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:14:25.401  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 17:27:19.275  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:19.276  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:34.420  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:34.420  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:43.738  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:43.738  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:56.116  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=16, statusCode=WTS_REMOTE_CONNECT, console=15
+2022/09/11 17:27:57.658  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:57.658  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 17:27:57.784  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=15, statusCode=WTS_SESSION_LOGOFF, console=15
+2022/09/11 17:27:57.909  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=15, statusCode=WTS_CONSOLE_DISCONNECT, console=4294967295
+2022/09/11 17:27:57.909  5224  5228 S0   SingleUserSessionDesignator: New active session: 4294967295
+2022/09/11 17:27:57.964  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=16, statusCode=WTS_REMOTE_DISCONNECT, console=4294967295
+2022/09/11 17:27:58.018  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=16, statusCode=WTS_CONSOLE_CONNECT, console=16
+2022/09/11 17:27:58.018  5224  5228 S0   SingleUserSessionDesignator: New active session: 16
+2022/09/11 17:27:58.092  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/09/11 17:27:58.092  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 4
+2022/09/11 17:27:58.092  5224  5228 S0   NetWatchdog: OnStandby going to sleep
+2022/09/11 17:27:58.092  5224  5228 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/09/11 17:27:58.092  5224  5448 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/11 21:23:02.845  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/11 21:23:02.845  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 10
+2022/09/11 21:23:03.138  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 21:23:03.138  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 21:23:03.353  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/09/11 21:23:03.353  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 7
+2022/09/11 21:23:03.353  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/09/11 21:23:03.353  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:23:04.022  5224  7452 S0   NetWatchdog: Completely disconnected. Going offline.
+2022/09/11 21:23:04.022  5224  7452 S0   NetWatchdog: Internet is now disconnected
+2022/09/11 21:23:04.022  5224  5448 S0!! KeepAliveSession::StopKeepAliveInternal: no remote session
+2022/09/11 21:23:04.022  5224  7452 S0   NetWatchdog: LAN is now disconnected
+2022/09/11 21:23:05.482  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/09/11 21:23:05.482  5224  5228 S0   SERVICE_CONTROL_POWEREVENT 18
+2022/09/11 21:23:05.482  5224  5228 S0   NetWatchdog: OnStandby woke up
+2022/09/11 21:23:05.482  5224  5448 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:23:12.715  5224  5228 S0   SERVICE_CONTROL_SESSIONCHANGE session=16, statusCode=WTS_SESSION_LOGON, console=16
+2022/09/11 21:23:36.226  5224  7452 S0   NetWatchdog: LAN is now connected
+2022/09/11 21:23:36.231  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:23:36.260  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:23:37.070  5224  7452 S0   NetWatchdog: Internet is now connected
+2022/09/11 21:23:37.070  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:23:38.895  5224  5440 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:27:03.766 18384 25576  0   Logger started.
+2022/09/11 21:27:03.779 18384 25576  0   CustomConfigurationJson::Init: failure reading file C:\Program Files\TeamViewer\TeamViewer.json - The system cannot find the file specified
+2022/09/11 21:27:03.804 18384 21904  0   CustomConfigurationJson::Init: failure reading file C:\Program Files\TeamViewer\TeamViewer.json - The system cannot find the file specified
+2022/09/11 21:27:04.063 18384 21904  0   SecureNetwork::InitSecureNetwork: loaded 4096 bit RSA private key with fingerprint SHA256:oFwry6CI2a/53GIbAcEL8zMZ4pVRU3P9FLSCfAp9XqQ
+2022/09/11 21:27:04.063 18384 21904  0   InitializeRemoteAccessAPI
+2022/09/11 21:27:04.068 18384 21904  0   Logger started.
+2022/09/11 21:27:04.073 18384 21904  0   QueryVPNRegKey: Subkey 'SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\Configuration' (16) has no 'MatchingDeviceID' entry. Continuing...
+2022/09/11 21:27:04.073 18384 21904  0   QueryVPNRegKey: Subkey 'SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\Properties' (17) has no 'MatchingDeviceID' entry. Continuing...
+2022/09/11 21:27:04.075 18384 21904  0   IdentityManagement: Load ManagerIDs from local Storage: 
+2022/09/11 21:27:04.075 18384 21904  0   InitializeDeviceManagementV2
+2022/09/11 21:27:04.076 18384 21904  0   ManagedDeviceClientModule:: Trigger Startup
+2022/09/11 21:27:04.076 18384 21904  0   MDv2::ProviderRegistrationController::UpdateRegistration: device is offline
+2022/09/11 21:27:04.077 18384 21904  0   ManagedDeviceClientModule::ManagedDeviceClientModule(): Started ManagedDevice V2 module
+2022/09/11 21:27:04.081 18384 25576 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 21:27:04.081 18384 25576 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 21:27:04.141 18384 21904 S0   DesiredServices: waiting for service winmgmt
+
+
+
+Start:              2022/09/11 21:27:04.219 (UTC+5:30)
+Version:            15.23.9 (64-bit)
+Version short hash: 9ac8440a437
+ID:                 570152903
+Loglevel:           Info (100)
+License:            10000
+IC:                 617707977
+CPU:                Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+CPU extensions:     l9
+OS:                 Win_10.0.22000_W (64-bit)
+IP:                 192.168.43.166
+MID:                v314443353331424a31323242333144357412b3a880dd60a78f9550f53bf3c114342b4bdbb85e<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006
+MIDv:               2
+Proxy-Settings:     Type=1 IP= User=
+IE:                 11.1.22000.0
+AppPath:            C:\Program Files\TeamViewer\TeamViewer_Service.exe
+UserAccount:        SYSTEM
+
+2022/09/11 21:27:04.242 18384 21904 S0   LanguageControl: device language is 'en'
+2022/09/11 21:27:04.250 18384 18980 S0   NetWatchdog: Internet is now connected
+2022/09/11 21:27:04.250 18384  9044 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:27:04.250 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_TVClientSetting_Policy empty
+2022/09/11 21:27:04.250 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Scripting_Policy empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_Antivirus_Policy empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_Backup_Policy empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_RemoteManagement_Policy empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_ActiveDirectory_Policy empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_PatchManagement_Policy empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry IoTSensor empty
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsReception::HandleRestoredStatusFromRemoteSettingsStoreEvent.
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsMDRelationshipWatchDog::ActivateWatchDog
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsMDRelationshipWatchDog: DEVICE ISN'T A MANAGED DEVICE
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsReception::HandleManagementStatusChanged
+2022/09/11 21:27:04.251 18384  6384 S0   RemoteSettingsStore: Cleanup all policies from version: 1
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsMDv2RelationshipWatchdog: Start WatchDog
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsMDv2RelationshipWatchdog::HandleManagementChanged
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsMDv2RelationshipWatchdog: Device isn't a managed v2 device anymore
+2022/09/11 21:27:04.251 18384 21904 S0   RemoteSettingsReception::HandleManagmentv2StatusChanged
+2022/09/11 21:27:04.251 18384  6384 S0   RemoteSettingsStore: Cleanup all policies from version: 2
+2022/09/11 21:27:04.252 18384 21904 S0   Using IPC-Port 5939
+2022/09/11 21:27:04.252 18384 21904 S0   SHMR: Initializing shared memory.
+2022/09/11 21:27:04.252 18384 21904 S0   CustomConfigurationJson::Init: failure reading file C:\Program Files\TeamViewer\TeamViewer.json - The system cannot find the file specified
+2022/09/11 21:27:04.254 18384 21904 S0!  OptOutManager::[]ResultCB: Send message result 0
+2022/09/11 21:27:04.255 18384 21904 S0   ApiServer::IsApiInstalled: The API is not registered with Windows.
+2022/09/11 21:27:04.256 18384  9044 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 0, username = , primarySession = 0, unusable = 1, locked = 0, connected = 0
+2022/09/11 21:27:04.256 18384  9044 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 16, username = laptop-b07v2ter\d y vijayasimhareddy, primarySession = 1, unusable = 0, locked = 0, connected = 1
+2022/09/11 21:27:04.256 18384  9044 S0   SingleUserSessionDesignator: New active session: 16
+2022/09/11 21:27:04.257 18384 25408 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
+2022/09/11 21:27:04.257 18384 25408 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
+2022/09/11 21:27:09.964 23532 23388  0   Logger started.
+2022/09/11 21:27:09.967 23532 23388  0   CustomConfigurationJson::Init: failure reading file C:\Program Files\TeamViewer\TeamViewer.json - The system cannot find the file specified
+2022/09/11 21:27:09.976 23532 19608  0   CustomConfigurationJson::Init: failure reading file C:\Program Files\TeamViewer\TeamViewer.json - The system cannot find the file specified
+2022/09/11 21:27:10.145 23532 19608  0   SecureNetwork::InitSecureNetwork: loaded 4096 bit RSA private key with fingerprint SHA256:oFwry6CI2a/53GIbAcEL8zMZ4pVRU3P9FLSCfAp9XqQ
+2022/09/11 21:27:10.145 23532 19608  0   InitializeRemoteAccessAPI
+2022/09/11 21:27:10.146 23532 19608  0   Logger started.
+2022/09/11 21:27:10.147 23532 19608  0   QueryVPNRegKey: Subkey 'SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\Configuration' (16) has no 'MatchingDeviceID' entry. Continuing...
+2022/09/11 21:27:10.147 23532 19608  0   QueryVPNRegKey: Subkey 'SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\Properties' (17) has no 'MatchingDeviceID' entry. Continuing...
+2022/09/11 21:27:10.147 23532 19608  0   IdentityManagement: Load ManagerIDs from local Storage: 
+2022/09/11 21:27:10.147 23532 19608  0   InitializeDeviceManagementV2
+2022/09/11 21:27:10.147 23532 19608  0   ManagedDeviceClientModule:: Trigger Startup
+2022/09/11 21:27:10.147 23532 19608  0   MDv2::ProviderRegistrationController::UpdateRegistration: device is offline
+2022/09/11 21:27:10.147 23532 19608  0   ManagedDeviceClientModule::ManagedDeviceClientModule(): Started ManagedDevice V2 module
+2022/09/11 21:27:10.149 23532 23388 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 21:27:10.150 23532 23388 S0   SERVICE_CONTROL_POWEREVENT 32787
+2022/09/11 21:27:10.195 23532 19608 S0   DesiredServices: waiting for service winmgmt
+
+
+
+Start:              2022/09/11 21:27:10.260 (UTC+5:30)
+Version:            15.23.9 (64-bit)
+Version short hash: 9ac8440a437
+ID:                 570152903
+Loglevel:           Info (100)
+License:            10000
+IC:                 617707977
+CPU:                Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+CPU extensions:     l9
+OS:                 Win_10.0.22000_W (64-bit)
+IP:                 192.168.43.166
+MID:                v314443353331424a31323242333144357412b3a880dd60a78f9550f53bf3c114342b4bdbb85e<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0dd0c5b4e712d7cef7750d93b4e6b006
+MIDv:               2
+Proxy-Settings:     Type=1 IP= User=
+IE:                 11.1.22000.0
+AppPath:            C:\Program Files\TeamViewer\TeamViewer_Service.exe
+UserAccount:        SYSTEM
+
+2022/09/11 21:27:10.284 23532 19608 S0   LanguageControl: device language is 'en'
+2022/09/11 21:27:10.289 23532 19256 S0   NetWatchdog: Internet is now connected
+2022/09/11 21:27:10.289 23532 27420 S0   CKeepAliveClientClient::HandleStartKeepAlive: going online not wanted!
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_TVClientSetting_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Scripting_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_Antivirus_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_Backup_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_RemoteManagement_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_ActiveDirectory_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry Remote_Settings_PatchManagement_Policy empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsStore::LoadLastReceivedPolicies : Storage Entry IoTSensor empty
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsReception::HandleRestoredStatusFromRemoteSettingsStoreEvent.
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsMDRelationshipWatchDog::ActivateWatchDog
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsMDRelationshipWatchDog: DEVICE ISN'T A MANAGED DEVICE
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsReception::HandleManagementStatusChanged
+2022/09/11 21:27:10.290 23532 11420 S0   RemoteSettingsStore: Cleanup all policies from version: 1
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsMDv2RelationshipWatchdog: Start WatchDog
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsMDv2RelationshipWatchdog::HandleManagementChanged
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsMDv2RelationshipWatchdog: Device isn't a managed v2 device anymore
+2022/09/11 21:27:10.290 23532 19608 S0   RemoteSettingsReception::HandleManagmentv2StatusChanged
+2022/09/11 21:27:10.290 23532 11420 S0   RemoteSettingsStore: Cleanup all policies from version: 2
+2022/09/11 21:27:10.291 23532 19608 S0   Using IPC-Port 5939
+2022/09/11 21:27:10.291 23532 19608 S0   SHMR: Initializing shared memory.
+2022/09/11 21:27:10.291 23532 19608 S0   CustomConfigurationJson::Init: failure reading file C:\Program Files\TeamViewer\TeamViewer.json - The system cannot find the file specified
+2022/09/11 21:27:10.292 23532 19608 S0!  OptOutManager::[]ResultCB: Send message result 0
+2022/09/11 21:27:10.293 23532 19608 S0   ApiServer::IsApiInstalled: The API is not registered with Windows.
+2022/09/11 21:27:10.294 23532 27420 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 0, username = , primarySession = 0, unusable = 1, locked = 0, connected = 0
+2022/09/11 21:27:10.295 23532 27420 S0   OSSessionEventTranslator::GenerateEventsForSession: SessionID = 16, username = laptop-b07v2ter\d y vijayasimhareddy, primarySession = 1, unusable = 0, locked = 0, connected = 1
+2022/09/11 21:27:10.295 23532 27420 S0   SingleUserSessionDesignator: New active session: 16
+2022/09/11 21:27:10.295 23532 19132 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
+2022/09/11 21:27:10.295 23532 19132 S0   NetworkControl::UpdateOnlineState alwaysOnline=0 delayOffline=0 otherProcess=0 restart=0 termsOfUseAccepted=1
